@@ -1,5 +1,4 @@
 # workpacer
-## description
 Script that helps keep track of work loads and reminds the user to take breaks
 
 ## requirements
